@@ -1,2 +1,2 @@
-# example-repo
-Sample Repository
+#.Example Repository
+This is the sample repo,Hello world
